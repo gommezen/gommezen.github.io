@@ -1,0 +1,13 @@
+body,h1 {
+	font-family: "Raleway", helvetica, sans-serif;
+}
+
+body, html {height: 100%;
+}
+
+.bgimg {
+    background-image: url("sansevaerkimages/raven.gif"), url('sansevaerkimages/baggrund.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
